@@ -37,13 +37,13 @@ together.
 ## Key Results
 
 ### Correlation Structure
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 Stocks 2 and 3 are slightly negatively correlated- they provide 
 the best diversification benefit when combined.
 
 ### The Efficient Frontier
-![Efficient Frontier](images/efficient_frontier.png)
+![Efficient Frontier](efficient_frontier.png)
 
 Each dot is one randomly generated portfolio. The glowing yellow 
 edge is the efficient frontier- the set of portfolios that deliver 
