@@ -6,7 +6,7 @@ Theory using Monte Carlo simulation, built in Python.
 ## Background
 
 Given a set of assets with different returns and risks, what is the 
-optimal way to split your money between them? Markowitz's answer- published in 1952 and awarded the Nobel Prize — is to consider not just individual asset properties but how assets move together.
+optimal way to split your money between them? Markowitz's answer- published in 1952 and awarded the Nobel Prize- is to consider not just individual asset properties but how assets move together.
 
 The key insight is diversification: combining assets that are 
 uncorrelated or negatively correlated reduces portfolio volatility 
